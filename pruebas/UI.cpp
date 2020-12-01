@@ -20,6 +20,10 @@ void showScore() {
 
 }
 
+void showMap() {
+
+}
+
 void Clear() {
     
 }
